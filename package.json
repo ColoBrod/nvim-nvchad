@@ -1,0 +1,12 @@
+{
+  "Constructor": {
+    "prefix": "mysnip",
+    "body": [
+      "constructor() {",
+      "\tsuper();",
+      "\t$0",
+      "}"
+    ],
+    "description": "Constructor"
+  }
+}
